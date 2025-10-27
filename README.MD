@@ -1,6 +1,6 @@
 # Podcast Protocolo Solaris
 
-Criação de um podcast completo com ferramentas de inteligência artificial. Todo o processo de roteirização à edição é automatizado, com uma sequência de prompts via ChatGPT para o roteiro, ElevenLabs para a voz, Gemini para as artes e CapCut para a edição do som. O template do Notion está disponível para acompanhar o resultado final.
+Desenvolvimento de um podcast com produção automatizado por IA. O workflow utiliza roteiro via ChatGPT, criação de narração no ElevenLabs, artes no Gemini e edição de som pelo CapCut. A gestão do projeto é feita por meio do Template Notion, e um e-book é oferecido à audiência.
 
 https://www.notion.so/Podcast-Protocolo-Solaris-28844739f7258004a4b4f9a112efca1c?source=copy_link
 
